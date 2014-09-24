@@ -1,7 +1,7 @@
 Productive small-scale data processing using Python
 ====================================
 
-한국자원공학회지 "파이썬을 이용한 생산적인 소규모 자료처리" 논문 수치 예제입니다. 아래 링크들을 클릭하시면 IPython notebook을 통해 코드와 결과를 확인하실 수 있습니다. 
+한국자원공학회지 "파이썬을 이용한 생산적인 소규모 자료처리" 논문 수치 예제입니다. 아래 링크들을 클릭하시면 [IPython Notebook](http://ipython.org/notebook.html)을 이용하여 코드와 결과를 확인하실 수 있습니다. 
 
 직접 실행하고 싶으신 경우 [Anaconda](https://store.continuum.io/cshop/anaconda/) 패키지를 이용하여 Python, Numpy, Numba, Cython, SciPy, Matplotlib, IPython, Pandas를 설치하신 후 (한꺼번에 자동으로 설치됩니다) github에서 소스 코드를 받아서 실행하시면 됩니다.
 실행시
